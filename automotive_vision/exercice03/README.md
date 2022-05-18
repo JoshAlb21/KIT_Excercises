@@ -14,4 +14,4 @@ wodurch ein Histogramm aus 8 bins besteht.
 
 ![alt text](https://raw.githubusercontent.com/JoshAlb21/KIT_Exercices/automotive_vision/exercice03/master/assets/extract_feature.jpg?raw=true)
 
-![alt text](https://github.com/JoshaAlb21/KIT_Exercices/automotive_vision/exercice03/blob/master/assets/extract_feature.jpg?raw=true)
+![alt text](https://github.com/JoshaAlb21/KIT_Exercices/automotive_vision/exercice03/master/assets/extract_feature.jpg?raw=true)
